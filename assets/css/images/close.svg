@@ -1,7 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
 	<style>
-		line { stroke: #ffffff; stroke-width: 2px; }
+		circle { fill: #ffffff; stroke: #68bdb0; stroke-width: 3px; }
+		line { stroke: #ffffff; stroke-width: 8px; }
 	</style>
+	<circle cx="32" cy="32" r="12" />
 	<line x1="20" y1="20" x2="44" y2="44" />
 	<line x1="20" y1="44" x2="44" y2="20" />
 </svg>
