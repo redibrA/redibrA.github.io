@@ -1,36 +1,31 @@
-
-TITLE: 
-Roxy - Bootstrap 4 template built by GetTemplates.co
-
-AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co and FreeHTML5.co
-
-Websites: https://gettemplates.co https://freehtml5.co/
+Solid State by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-CREDITS:
+After a somewhat extended break from HTML5 UP (to work on a secret-ish new project --
+more on that later!) I'm back with a brand new design: Solid State, a slick new multi-
+pager that combines some of the ideas I've played with over at Pixelarity with an "angular"
+sort of look. Hope you dig it :)
 
-Bootstrap
-http://getbootstrap.com/
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-jQuery
-http://jquery.com/
+(* = not included)
 
-OwlCarousel
-https://owlcarousel2.github.io/OwlCarousel2/
+AJ
+aj@lkn.io | @ajlkn
 
-Isotope
-https://isotope.metafizzy.co
 
-Select2
-https://select2.org
+Credits:
 
-Stellar
-http://markdalgleish.com/projects/stellar.js/
+	Demo Images:
+		Unsplash (unsplash.com)
 
-Lightcase
-https://cornel.bopp-art.com/lightcase/
+	Icons:
+		Font Awesome (fontawesome.io)
 
-Demo Images:
-http://unsplash.com
-
+	Other:
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
